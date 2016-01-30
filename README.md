@@ -1,2 +1,3 @@
 # hello-world
-first repository on this acc
+First repository on this acc.
+Added more information by writing this sentence.
